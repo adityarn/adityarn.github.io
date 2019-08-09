@@ -1,7 +1,16 @@
+
 .title {
     color: teal;
 }
 
-.padding-bottom {
+.padding-bottom li{
     padding-bottom: 10px;
+}
+
+.img-profile {
+    float: right;
+}
+
+.float-left {
+    float: left;
 }
