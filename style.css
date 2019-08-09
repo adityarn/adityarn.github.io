@@ -21,3 +21,17 @@ body {
 .bold-font {
     font-weight: bold;
 }
+
+.blue-font {
+    color: blue;
+}
+
+.orange-font {
+    color: #da700d;
+}
+
+.aboutme {
+    font-weight: bold;
+    opacity: 0.75;
+}
+    
