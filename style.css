@@ -16,6 +16,8 @@ body {
     display: block;
     margin-right: 70px;
     float: right;
+    height: 300px;
+    width: 300px;
 }
 
 .float-left {
