@@ -1,10 +1,13 @@
-body {
+.full-body {
     margin-left: 20px;
-    margin-right: 70px;
+    margin-right: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Arial;
 }
 
 .title {
-    color: teal;
+    color: black;
     text-align: centre;
 }
 
@@ -15,9 +18,11 @@ body {
 .img-profile {
     display: block;
     margin-right: 70px;
-    float: right;
+    margin-left: 700px;
     height: 300px;
     width: 300px;
+    border-radius: 50%;
+    float: right;
 }
 
 .float-left {
@@ -44,4 +49,9 @@ body {
 .img-illustration {
     margin-right: 70px;
     margin-left: 200px;
+}
+
+.background-dark {
+    margin-right: 0px;
+    margin-left: 0px;
 }
