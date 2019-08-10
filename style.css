@@ -1,9 +1,11 @@
 body {
     margin-left: 20px;
+    margin-right: 70px;
 }
 
 .title {
     color: teal;
+    text-align: centre;
 }
 
 .padding-bottom li{
@@ -11,6 +13,8 @@ body {
 }
 
 .img-profile {
+    display: block;
+    margin-right: 1000px;
     float: right;
 }
 
