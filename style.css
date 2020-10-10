@@ -44,6 +44,7 @@
 .aboutme {
     font-weight: bold;
     opacity: 0.75;
+    text-align: justify;
 }
     
 .img-illustration {
