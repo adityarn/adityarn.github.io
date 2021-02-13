@@ -46,7 +46,7 @@ I am a Postdoctoral Scientist at IIT Madras working on Southern Ocean dynamics. 
 ## Code
 
 1. [Github repositories](https://github.com/adityarn)
-1. [OSF repositories: ](https://osf.io/gcjbk/)
+1. [Open Science Foundation repositories](https://osf.io/gcjbk/)
 
 
 ## Collaborators
