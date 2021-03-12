@@ -56,11 +56,11 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 ## Collaborators
 
-1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 1. [Sarah T. Gille](http://pordlabs.ucsd.edu/sgille/), Scripps Institution of Oceanography, University of California San Diego.
 1. [Matthew Mazzloff](http://scrippsscholars.ucsd.edu/mmazloff), Scripps Institution of Oceanography, University of California San Diego.
 1. [Fabien Roquet](http://fabien-roquet.com/), Department of Marine Sciences, Gothenburg University.
 1. [Marcel du Plessis](https://mduplessis.com/), Department of Marine Sciences, Gothenburg University.
+1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 
 
 ## Contact
