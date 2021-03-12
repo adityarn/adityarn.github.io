@@ -7,12 +7,13 @@ title: Aditya Narayanan
 
 ## About Me:
 
-I am a Postdoctoral Scientist at IIT Madras working on Southern Ocean dynamics. I will be beginning a postdoctoral position at Fabien Roquet's lab at the Department of Marine Sciences, University of Gothenburg under the SO-CHIC project soon!
+I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project.
 
 [My Full CV](https://github.com/adityarn/CV/blob/master/CV.pdf)
 
 ## Research Interests
 
+1. Open ocean polynya.
 1. Southern Ocean dynamics.
 1. Antarctic continental shelf and continental shelf break processes.
 1. Production of Dense Shelf Waters. 
@@ -26,8 +27,12 @@ I am a Postdoctoral Scientist at IIT Madras working on Southern Ocean dynamics. 
 ### Journals
 
 
-1.  [Narayanan, A., Gille, S. T., Mazloff, M., & Murali, K. (2019). Water mass characteristics of the Antarctic margins and the production and seasonality of Dense Shelf Water. Journal of Geophysical Research: Oceans;](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014907); [DOI:"https://doi.org/10.1029/2018JC014907"](https://doi.org/10.1029/2018JC014907); [Click here for open access](https://escholarship.org/uc/item/9fx3m2rx)
+1.  Narayanan, A., Gille, S. T., Mazloff, M., & Murali, K. (2019). Water mass characteristics of the Antarctic margins and the production and seasonality of Dense Shelf Water. Journal of Geophysical Research: Oceans; [DOI](https://doi.org/10.1029/2018JC014907); [Click here for open access](https://escholarship.org/uc/item/9fx3m2rx)
 
+
+### Reports
+
+1. Queste, B. Y., E. P. Abrahamsen, M. D. du Plessis, S. T. Gille, L. Gregor, M. R. Mazloff, A. Narayanan, F. Roquet, and S. Swart, (2020), "Southern Ocean" [in "State of the Climate in 2019"], \emph{Bull. Amer. Meteor. Soc.}, 101, S307-S309, [DOI](https://doi.org/10.1175/BAMS-D-20-0090.1)
     
 ### Under review
 
