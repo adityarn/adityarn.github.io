@@ -36,7 +36,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
     
 ### Under review
 
-1.  **2021:** **Narayanan, A., Gille, S. T., Mazloff, M., Roquet, F., duPlessis, M., Murali, K. Interaction of Circumpolar Deep Water with large-scale circulation and shelf water masses in the Southern Ocean** -- Under review, study analyses the distribution of Circumpolar Deep Water over the continental slope and offshore regions around Antarctica using tagged seals data and Argo data, supplemented by a 1/12<sup>o</sup> Southern Ocean model.
+1.  **2021:** **Narayanan, A., Gille, S. T., Mazloff, M., Roquet, F., duPlessis, M., & Murali, K. Interaction of Circumpolar Deep Water with large-scale circulation and shelf water masses in the Southern Ocean** -- Under review, study analyses the distribution of Circumpolar Deep Water over the continental slope and offshore regions around Antarctica using tagged seals data and Argo data, supplemented by a 1/12<sup>o</sup> Southern Ocean model.
 
 
 ### Conferences
