@@ -65,6 +65,6 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 ## Contact
 
-1. Email: adityarn@gmail.com
+1. Email: adityarn@gmail.com, aditya.narayanan@gu.se
 1. [ORCID: ](https://orcid.org/0000-0002-8967-2211)
 1. [Twitter: ](https://twitter.com/aditrn)
