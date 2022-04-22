@@ -7,7 +7,7 @@ title: Aditya Narayanan
 
 ## About Me:
 
-I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project.
+I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project. My pronouns are: he/him.
 
 [My Full CV](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf)
 
