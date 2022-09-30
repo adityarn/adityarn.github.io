@@ -60,6 +60,8 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 1. [Matthew Mazzloff](http://scrippsscholars.ucsd.edu/mmazloff), Scripps Institution of Oceanography, University of California San Diego.
 1. [Fabien Roquet](http://fabien-roquet.com/), Department of Marine Sciences, Gothenburg University.
 1. [Marcel du Plessis](https://mduplessis.com/), Department of Marine Sciences, Gothenburg University.
+2. [Sabu P.](https://ncpor.res.in/profiles/details/115), National Centre for Polar and Ocean Research, Ministry of Earth Sciences, Government of India.
+2. [Alberto Naveira Garabato](https://orcid.org/0000-0001-6071-605X), National Oceanography Centre, University of Southampton.
 1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 
 
