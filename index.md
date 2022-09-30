@@ -71,6 +71,10 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 
 
+## Talks online
+
+1. 2021: [Webinar on the Weddell Sea polynyas](https://www.youtube.com/watch?v=C1HVuRRD-fI&t=304s)
+
 ## Contact
 
 1. Postal address: Box 461, 40530, Gothenburg, Sweden.
