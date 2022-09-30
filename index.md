@@ -1,15 +1,19 @@
 ---
 title: Aditya Narayanan
 ---
-
-<img src="./Images/profile2.jpg" class="img-profile"/>
+**(He/Him)**
+<img src="./Images/profile3.jpg" class="img-profile"/>
 
 
 ## About Me:
 
-I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project. My pronouns are: he/him.
+I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project. 
+
+**Are you hiring? I am actively looking for postdoctoral positions beginning from March 2023!**
 
 [My Full CV](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf)
+
+**Contact:** adityarn@gmail.com, aditya.narayanan@gu.se
 
 ## Research Interests
 
@@ -62,11 +66,12 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 1. [Marcel du Plessis](https://mduplessis.com/), Department of Marine Sciences, Gothenburg University.
 2. [Sabu P.](https://ncpor.res.in/profiles/details/115), National Centre for Polar and Ocean Research, Ministry of Earth Sciences, Government of India.
 2. [Alberto Naveira Garabato](https://orcid.org/0000-0001-6071-605X), National Oceanography Centre, University of Southampton.
+3. Birte G&uuml;lk, Department of Marine Sciences, Gothenburg University.
 1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 
 
 ## Contact
 
-1. Email: adityarn@gmail.com, aditya.narayanan@gu.se
-1. [ORCID: ](https://orcid.org/0000-0002-8967-2211)
-1. [Twitter: ](https://twitter.com/aditrn)
+1. Postal address: Box 461, 40530, Gothenburg, Sweden.
+1. Visiting address: Carl Skottsberg Gata 22B, Department of Marine Sciences, University of Gothenburg, 41319, Gothenburg, Sweden.
+1. [ORCID: 0000-0002-8967-2211](https://orcid.org/0000-0002-8967-2211)
