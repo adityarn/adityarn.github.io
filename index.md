@@ -15,6 +15,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 **Contact:** adityarn@gmail.com, aditya.narayanan@gu.se
 
+
 ## Research Interests
 
 1. Open ocean polynya.
@@ -73,7 +74,11 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 ## Talks online
 
+1. 2022: [Webinar on the EU funded project: Southern Ocean Carbon and Heat Impacts on Climate (SOCHIC)](https://www.youtube.com/watch?v=Usky53wAa80)
 1. 2021: [Webinar on the Weddell Sea polynyas](https://www.youtube.com/watch?v=C1HVuRRD-fI&t=304s)
+
+
+
 
 ## Contact
 
