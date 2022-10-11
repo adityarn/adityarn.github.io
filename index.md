@@ -13,7 +13,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 [My Full CV](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf)
 
-**Contact:** adityarn@gmail.com, aditya.narayanan@gu.se
+**[Contact](#contact):** adityarn@gmail.com, aditya.narayanan@gu.se
 
 
 ## Research Interests
