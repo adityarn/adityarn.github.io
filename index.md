@@ -42,7 +42,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 ### Under review (Contact me for drafts)
 
 1.  **2021:** **Narayanan, A., Gille, S. T., Mazloff, M., duPlessis, M., & Murali, K., Roquet, F. Interaction of Circumpolar Deep Water with large-scale circulation and shelf water masses in the Southern Ocean** -- Under review, study analyses the distribution of Circumpolar Deep Water over the continental slope and offshore regions around Antarctica using tagged seals data and Argo data, supplemented by a 1/12<sup>o</sup> Southern Ocean model.
-2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Weddell Gyre interaction with seamount enabled recent polynya formation** -- Under prep., study analyses the complex flow -- topography interaction on the northern flank of the Maud Rise seamound in the Weddell Sea and identifies a novel mechanism that aided the formation of the 2017 polynya. Study uses the Southern Ocean State Estimate, a 1/6<sup>o</sup> Southern Ocean model.
+2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Weddell Gyre interaction with seamount enabled recent polynya formation** -- Under review, study analyses the complex flow -- topography interaction on the northern flank of the Maud Rise seamound in the Weddell Sea and identifies a novel mechanism that aided the formation of the 2017 polynya. Study uses the Southern Ocean State Estimate, a 1/6<sup>o</sup> Southern Ocean model.
 
 
 ### Conferences
