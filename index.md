@@ -61,6 +61,8 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 
 ## Collaborators
+<details>
+<summary> <b>(click to expand)</b> </summary>
 
 1. [Sarah T. Gille](http://pordlabs.ucsd.edu/sgille/), Scripps Institution of Oceanography, University of California San Diego.
 1. [Matthew Mazzloff](http://scrippsscholars.ucsd.edu/mmazloff), Scripps Institution of Oceanography, University of California San Diego.
@@ -71,6 +73,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 3. Birte G&uuml;lk, Department of Marine Sciences, Gothenburg University.
 1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 
+</details>
 
 ## Talks online
 
