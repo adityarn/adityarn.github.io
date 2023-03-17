@@ -34,7 +34,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 
     
-### Under review (Contact me for drafts)
+### Under Review (Contact me for drafts)
 
 1.  **2021:** **Narayanan, A., Gille, S. T., Mazloff, M., duPlessis, M., & Murali, K., Roquet, F. Interaction of Circumpolar Deep Water with large-scale circulation and shelf water masses in the Southern Ocean** -- Under review, study analyses the distribution of Circumpolar Deep Water over the continental slope and offshore regions around Antarctica using tagged seals data and Argo data, supplemented by a 1/12<sup>o</sup> Southern Ocean model.
 2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Weddell Gyre interaction with seamount enabled recent polynya formation** -- Under review, study analyses the complex flow -- topography interaction on the northern flank of the Maud Rise seamound in the Weddell Sea and identifies a novel mechanism that aided the formation of the 2017 polynya. Study uses the Southern Ocean State Estimate, a 1/6<sup>o</sup> Southern Ocean model.
@@ -60,7 +60,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 
 
-## Code
+## Code and Open Data
 
 1. [Github repositories](https://github.com/adityarn)
 1. [Open Science Foundation repositories](https://osf.io/gcjbk/)
@@ -81,7 +81,7 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 </details>
 
-## Talks online
+## Talks Online
 
 1. 2022: [Webinar on the EU funded project: Southern Ocean Carbon and Heat Impacts on Climate (SOCHIC)](https://www.youtube.com/watch?v=Usky53wAa80)
 1. 2021: [Webinar on the Weddell Sea polynyas](https://www.youtube.com/watch?v=C1HVuRRD-fI&t=304s)
