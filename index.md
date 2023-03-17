@@ -9,8 +9,6 @@ title: Aditya Narayanan
 
 I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project. 
 
-**Are you hiring? I am actively looking for postdoctoral positions beginning from March 2023!**
-
 [My Full CV](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf)
 
 **[Contact](#contact):** adityarn@gmail.com, aditya.narayanan@gu.se
@@ -35,9 +33,6 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 1.  Narayanan, A., Gille, S. T., Mazloff, M., & Murali, K. (2019). Water mass characteristics of the Antarctic margins and the production and seasonality of Dense Shelf Water. Journal of Geophysical Research: Oceans; [DOI](https://doi.org/10.1029/2018JC014907); [Click here for open access](https://escholarship.org/uc/item/9fx3m2rx)
 
 
-### Reports
-
-1. Queste, B. Y., E. P. Abrahamsen, M. D. du Plessis, S. T. Gille, L. Gregor, M. R. Mazloff, A. Narayanan, F. Roquet, and S. Swart, (2020), "Southern Ocean" [in "State of the Climate in 2019"], \emph{Bull. Amer. Meteor. Soc.}, 101, S307-S309, [DOI](https://doi.org/10.1175/BAMS-D-20-0090.1)
     
 ### Under review (Contact me for drafts)
 
@@ -45,8 +40,19 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Weddell Gyre interaction with seamount enabled recent polynya formation** -- Under review, study analyses the complex flow -- topography interaction on the northern flank of the Maud Rise seamound in the Weddell Sea and identifies a novel mechanism that aided the formation of the 2017 polynya. Study uses the Southern Ocean State Estimate, a 1/6<sup>o</sup> Southern Ocean model.
 
 
+### Upcoming
+
+1. A study of the variability of the Weddell Gyre using remotely sensed sea level anomalies.
+
+
+### Reports
+
+1. Queste, B. Y., E. P. Abrahamsen, M. D. du Plessis, S. T. Gille, L. Gregor, M. R. Mazloff, A. Narayanan, F. Roquet, and S. Swart, (2020), "Southern Ocean" [in "State of the Climate in 2019"], \emph{Bull. Amer. Meteor. Soc.}, 101, S307-S309, [DOI](https://doi.org/10.1175/BAMS-D-20-0090.1)
+
+
 ### Conferences
 
+1. [Aditya Narayanan, Birte Gülk, Fabien Roquet, and Alberto Naveira Garabato, (2022), <strong> "<em> The oceanic drivers of the 2017 Maud Rise Polynya</em>", </strong> EGU General Assembly, Vienna](https://meetingorganizer.copernicus.org/EGU22/EGU22-9100.html)
 1.  [Aditya Narayanan, Sarah T. Gille, Matthew Mazloff, Murali K, (2019), <strong> "<em> Antarctic Shelf Break Processes and Circumpolar Deep Water Intrusion </em>", </strong> AGU Fall Meeting, San Fransisco.](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/505561)
 1. Aditya Narayanan, Sarah T. Gille, Matthew Mazloff, Murali K, (2019), "<em>Antarctic shelf break processes and their role in determining the bottom temperature regime of the shelf seas</em>", National Conference on Polar Sciences, National Centre for Polar and Ocean Research, Goa, India.
 1. Aditya Narayanan, Murali K. (2018), "<em>Analysis of Turbulence in the Weddell Sea: Observations and Modeling</em>", Ocean Sciences Meeting, Portland.
