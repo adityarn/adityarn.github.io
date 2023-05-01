@@ -9,6 +9,8 @@ title: Aditya Narayanan
 
 I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project. 
 
+In June 2023, I will begin a new position as a postdoctoral researcher at the Department of Environmental and Life Sciences, University of Southampton. I will work on how the large-scale oceanic circulation mediates the heat supply towards the Amundsen Sea as part of the [DeCAdeS project](https://gtr.ukri.org/projects?ref=NE%2FT012803%2F1).
+
 [My Full CV](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf)
 
 **[Contact](#contact):** adityarn@gmail.com, aditya.narayanan@gu.se
@@ -91,6 +93,8 @@ I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg 
 
 ## Contact
 
+1. adityarn@gmail.com, aditya.narayanan@gu.se
 1. Postal address: Box 461, 40530, Gothenburg, Sweden.
 1. Visiting address: Carl Skottsberg Gata 22B, Department of Marine Sciences, University of Gothenburg, 41319, Gothenburg, Sweden.
 1. [ORCID: 0000-0002-8967-2211](https://orcid.org/0000-0002-8967-2211)
+
