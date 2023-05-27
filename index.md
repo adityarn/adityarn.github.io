@@ -39,7 +39,7 @@ In June 2023, I will begin a new position as a postdoctoral researcher at the De
     
 ### Under Review (Contact me for drafts)
 
-2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Weddell Gyre interaction with seamount enabled recent polynya formation** -- Under review, study analyses the complex flow -- topography interaction on the northern flank of the Maud Rise seamound in the Weddell Sea and identifies a novel mechanism that aided the formation of the 2017 polynya. Study uses the Southern Ocean State Estimate, a 1/6<sup>o</sup> Southern Ocean model.
+2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Weddell Gyre interaction with seamount enabled recent polynya formation** -- Under review, study analyses the complex flow -- topography interaction on the northern flank of the Maud Rise seamount in the Weddell Sea and identifies a novel mechanism that aided the formation of the 2017 polynya. Study uses the Southern Ocean State Estimate, a 1/6<sup>o</sup> Southern Ocean model.
 
 
 ### Upcoming
