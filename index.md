@@ -7,13 +7,11 @@ title: Aditya Narayanan
 
 ## About Me:
 
-I am a Postdoctoral Researcher at the Department of Marine Sciences, Gothenburg University, Sweden. I am working on Southern Ocean dynamics with Fabien Roquet under the SO-CHIC project. 
-
-In June 2023, I will begin a new position as a postdoctoral researcher at the Department of Environmental and Life Sciences, University of Southampton. I will work on how the large-scale oceanic circulation mediates heat supply towards the Amundsen Sea as part of the [DeCAdeS project](https://gtr.ukri.org/projects?ref=NE%2FT012803%2F1).
+I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, University of Southampton. I am working on large-scale oceanic circulation that mediates heat supply towards the Amundsen Sea as part of the [DeCAdeS project](https://gtr.ukri.org/projects?ref=NE%2FT012803%2F1).
 
 [My Full CV](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf)
 
-**[Contact](#contact):** adityarn@gmail.com, aditya.narayanan@gu.se
+**[Contact](#contact):** adityarn@gmail.com, A.Narayanan@soton.ac.uk 
 
 
 ## Research Interests
