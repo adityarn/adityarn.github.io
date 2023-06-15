@@ -76,6 +76,7 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 1. [Marcel du Plessis](https://mduplessis.com/), Department of Marine Sciences, Gothenburg University.
 2. [Sabu P.](https://ncpor.res.in/profiles/details/115), National Centre for Polar and Ocean Research, Ministry of Earth Sciences, Government of India.
 2. [Alberto Naveira Garabato](https://orcid.org/0000-0001-6071-605X), National Oceanography Centre, University of Southampton.
+3. Alessandro Silvano, National Oceanography Centre, University of Southampton.
 3. Birte G&uuml;lk, Department of Marine Sciences, Gothenburg University.
 1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 
@@ -91,8 +92,7 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 
 ## Contact
 
-1. adityarn@gmail.com, aditya.narayanan@gu.se
-1. Postal address: Box 461, 40530, Gothenburg, Sweden.
-1. Visiting address: Carl Skottsberg Gata 22B, Department of Marine Sciences, University of Gothenburg, 41319, Gothenburg, Sweden.
+1. adityarn@gmail.com, a.narayanan@soton.ac.uk
+1. Postal address: 184/16, Ocean and Earth Science, Waterfront Campus, European Way, Southampton, Hampshire SO14 3ZH
 1. [ORCID: 0000-0002-8967-2211](https://orcid.org/0000-0002-8967-2211)
 
