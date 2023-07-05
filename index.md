@@ -30,8 +30,10 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 ### Journals
 
 
-1.  Narayanan, A., Gille, S. T., Mazloff, M., & Murali, K. (2019). Water mass characteristics of the Antarctic margins and the production and seasonality of Dense Shelf Water. Journal of Geophysical Research: Oceans; [DOI](https://doi.org/10.1029/2018JC014907); [Click here for open access](https://escholarship.org/uc/item/9fx3m2rx)
-1. Narayanan, A., Gille, S. T., Mazloff, M. R., du Plessis, M. D., Murali, K., & Roquet, F. (2023). Zonal distribution of Circumpolar Deep Water transformation rates and its relation to heat content on Antarctic shelves. Journal of Geophysical Research: Oceans, 128, e2022JC019310. [DOI](https://doi.org/10.1029/2022JC019310)
+1. Birte Gülk, Fabien Roquet, Alberto C. Naveira Garabato, **Aditya Narayanan**, Clément Rousset, and Gurvan Madec. “Variability and Remote Controls of the Warm-Water Halo and Taylor Cap at Maud Rise.” Journal of Geophysical Research: Oceans; [https://doi.org/10.1029/2022JC019517](https://doi.org/10.1029/2022JC019517).
+1. **Narayanan, A.**, Gille, S. T., Mazloff, M. R., du Plessis, M. D., Murali, K., & Roquet, F. (2023). Zonal distribution of Circumpolar Deep Water transformation rates and its relation to heat content on Antarctic shelves. Journal of Geophysical Research: Oceans, 128, e2022JC019310. [DOI](https://doi.org/10.1029/2022JC019310)
+1.  **Narayanan, A.**, Gille, S. T., Mazloff, M., & Murali, K. (2019). Water mass characteristics of the Antarctic margins and the production and seasonality of Dense Shelf Water. Journal of Geophysical Research: Oceans; [DOI](https://doi.org/10.1029/2018JC014907)
+
 
 
     
@@ -42,7 +44,7 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 
 ### Upcoming
 
-1. A study of the variability of the Weddell Gyre using remotely sensed sea level anomalies.
+1. A study of how the variability of the Weddell Gyre helped drive polynya formation over the Maud Rise. 
 
 
 ### Reports
