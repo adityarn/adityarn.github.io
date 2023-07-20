@@ -16,12 +16,12 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 
 ## Research Interests
 
-1. Open ocean polynya.
-1. Southern Ocean dynamics.
-1. Antarctic continental shelf and continental shelf break processes.
-1. Production of Dense Shelf Waters. 
-1. Circumpolar Deep Water intrusion onto the continental shelf.
-1. Coast-ward heat transport around Antarctica.
+* Open ocean polynya.
+* Southern Ocean dynamics.
+* Antarctic continental shelf and continental shelf break processes.
+* Production of Dense Shelf Waters. 
+* Circumpolar Deep Water intrusion onto the continental shelf.
+* Coast-ward heat transport around Antarctica.
 
 
 
