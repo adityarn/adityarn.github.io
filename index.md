@@ -95,7 +95,7 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 
 ## Contact
 
-1. adityarn@gmail.com, a.narayanan@soton.ac.uk
-1. Postal address: 184/16, Ocean and Earth Science, Waterfront Campus, European Way, Southampton, Hampshire SO14 3ZH
-1. [ORCID: 0000-0002-8967-2211](https://orcid.org/0000-0002-8967-2211)
+* adityarn@gmail.com, a.narayanan@soton.ac.uk
+* Postal address: 184/16, Ocean and Earth Science, Waterfront Campus, European Way, Southampton, Hampshire SO14 3ZH
+* [ORCID: 0000-0002-8967-2211](https://orcid.org/0000-0002-8967-2211)
 
