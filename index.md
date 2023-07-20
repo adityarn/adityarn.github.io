@@ -2,7 +2,7 @@
 title: Aditya Narayanan
 ---
 **(He/Him)**
-<img src="./Images/profile3.jpg" class="img-profile"/>
+<img src="./Images/fall_background_zoomedIn.jpg" class="img-profile"/>
 
 
 ## About Me:
