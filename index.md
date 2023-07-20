@@ -69,21 +69,23 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 1. [Open Science Foundation repositories](https://osf.io/gcjbk/)
 
 
+<!--- Following section commented out
 ## Collaborators
 <details>
 <summary> <b>(click to expand)</b> </summary>
 
-1. [Sarah T. Gille](http://pordlabs.ucsd.edu/sgille/), Scripps Institution of Oceanography, University of California San Diego.
-1. [Matthew Mazzloff](http://scrippsscholars.ucsd.edu/mmazloff), Scripps Institution of Oceanography, University of California San Diego.
-1. [Fabien Roquet](http://fabien-roquet.com/), Department of Marine Sciences, Gothenburg University.
-1. [Marcel du Plessis](https://mduplessis.com/), Department of Marine Sciences, Gothenburg University.
-2. [Sabu P.](https://ncpor.res.in/profiles/details/115), National Centre for Polar and Ocean Research, Ministry of Earth Sciences, Government of India.
-2. [Alberto Naveira Garabato](https://orcid.org/0000-0001-6071-605X), National Oceanography Centre, University of Southampton.
-3. Alessandro Silvano, National Oceanography Centre, University of Southampton.
-3. Birte G&uuml;lk, Department of Marine Sciences, Gothenburg University.
-1. [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
+* [Sarah T. Gille](http://pordlabs.ucsd.edu/sgille/), Scripps Institution of Oceanography, University of California San Diego.
+* [Matthew Mazzloff](http://scrippsscholars.ucsd.edu/mmazloff), Scripps Institution of Oceanography, University of California San Diego.
+* [Fabien Roquet](http://fabien-roquet.com/), Department of Marine Sciences, Gothenburg University.
+* [Marcel du Plessis](https://mduplessis.com/), Department of Marine Sciences, Gothenburg University.
+* [Sabu P.](https://ncpor.res.in/profiles/details/115), National Centre for Polar and Ocean Research, Ministry of Earth Sciences, Government of India.
+* [Alberto Naveira Garabato](https://orcid.org/0000-0001-6071-605X), National Oceanography Centre, University of Southampton.
+* Alessandro Silvano, National Oceanography Centre, University of Southampton.
+* Birte G&uuml;lk, Department of Marine Sciences, Gothenburg University.
+* [Murali K.](http://www.doe.iitm.ac.in/murali/), Department of Ocean Engineering, IIT Madras, Chennai (Ph.D. supervisor).
 
 </details>
+-->
 
 ## Talks Online
 
