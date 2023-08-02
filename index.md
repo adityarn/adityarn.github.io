@@ -9,19 +9,37 @@ title: Aditya Narayanan
 
 I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, University of Southampton. I am working on large-scale oceanic circulation that mediates heat supply towards the Amundsen Sea as part of the [DeCAdeS project](https://gtr.ukri.org/projects?ref=NE%2FT012803%2F1).
 
-[My Full CV](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf)
+[**My CV**](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf); **[Publications](#publications) **
 
 **[Contact](#contact):** adityarn@gmail.com, A.Narayanan@soton.ac.uk 
 
 
+
 ## Research Interests
 
-* Open ocean polynya.
-* Southern Ocean dynamics.
-* Antarctic continental shelf and continental shelf break processes.
-* Production of Dense Shelf Waters. 
-* Circumpolar Deep Water intrusion onto the continental shelf.
-* Coast-ward heat transport around Antarctica.
+
+### Antarctic continental shelf and continental shelf break processes.
+
+ <figure>
+  <img src="./Images/shelfRegimes_annotated.png" alt="Shelf Regimes" style="width:50%">
+  <figcaption>Antarctic continental shelf regimes showing cold (blue), warm (red), and intermediate (cyan) bottom temperature regimes. See 
+<a href="https://doi.org/10.1029/2018JC014907"> <b>here</b> </a> for more details.</figcaption>
+</figure>
+
+
+### Oceanic heat transport pathways onto the Antarctic continental shelf
+
+ <figure>
+  <img src="./Images/shelf_warm_cold_side_view_simplified.png" alt="Heat Pathways" style="width:75%">
+  <figcaption>Oceanic heat pathways delivering heat to ice shelves along the Antarctic coast are mediated by various processes. See 
+<a href="https://doi.org/10.1029/2022JC019310"> <b>here</b> </a> for more details.</figcaption>
+</figure>
+
+
+### Upcoming work
+
+* Open ocean polynyas
+* Subpolar gyre variability
 
 
 
