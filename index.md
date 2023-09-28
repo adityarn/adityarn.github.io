@@ -2,7 +2,7 @@
 title: Aditya Narayanan
 ---
 **(He/Him)**
-<img src="./Images/fall_background_zoomedIn.jpg" class="img-profile"/>
+<img src="./Images/pro_portrait.JPG" class="img-profile"/>
 
 
 ## About Me:
@@ -14,9 +14,7 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 **[Contact](#contact):** adityarn@gmail.com, A.Narayanan@soton.ac.uk 
 
 
-
 ## Research Interests
-
 
 ### Antarctic continental shelf and continental shelf break processes.
 
@@ -30,10 +28,11 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 ### Oceanic heat transport pathways onto the Antarctic continental shelf
 
  <figure>
-  <img src="./Images/shelf_warm_cold_side_view_simplified.png" alt="Heat Pathways" style="width:75%">
+  <img src="./Images/shelf_warm_cold_side_view_simplified.png" alt="Heat Pathways" style="width:65%">
   <figcaption>Oceanic heat pathways delivering heat to ice shelves along the Antarctic coast are mediated by various processes. See 
 <a href="https://doi.org/10.1029/2022JC019310"> <b>here</b> </a> for more details.</figcaption>
 </figure>
+
 
 
 ### Upcoming work

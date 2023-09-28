@@ -1,5 +1,6 @@
 /*
  * I add this to html files generated with pandoc.
+ * background-color: #d2e4f7;
  */
 
 html {
@@ -18,14 +19,16 @@ body {
   margin: auto;
   max-width: 62em;
   background: #fefefe;
+  background-image: linear-gradient(180deg, #fae6eb, #faf3e6, #e6f2fa, #e6eafa, #ebfae6);
 }
+
 
 .img-profile {
     display: block;
     margin-right: auto;
     margin-left: auto;
     height: 230.2px;
-    width: 290.6px;
+    width: 200.6px;
     border-radius: 50%;
     float: right;
 }
@@ -229,7 +232,7 @@ figure img {
 }
 
 figcaption {
-  font-size: 0.8em;
+  font-size: 1em;
   font-style: italic;
   margin: 0 0 .8em;
 }
@@ -338,3 +341,16 @@ table td {
   }
 }
 
+
+ /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
