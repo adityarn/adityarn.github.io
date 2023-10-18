@@ -63,7 +63,7 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 
 1. A study of how the variability of the Weddell Gyre helped drive polynya formation over the Maud Rise. 
 1. A study of how the large scale gyre circulation affects the cross-slope exchange of heat in the Amundsen Sea.
-1. What factors affects the mixing of Circumpolar Deep Water on seasonal and interannual timescales over the continental shelves and the open Southern Ocean?
+1. What factors affect the mixing of Circumpolar Deep Water on seasonal and interannual timescales over the continental shelves and the open Southern Ocean?
 
 
 ### Reports
