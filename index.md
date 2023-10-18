@@ -9,6 +9,8 @@ title: Aditya Narayanan
 
 I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, University of Southampton. I am working on large-scale oceanic circulation that mediates heat supply towards the Amundsen Sea as part of the [DeCAdeS project](https://gtr.ukri.org/projects?ref=NE%2FT012803%2F1).
 
+I am currently visiting UNSW, Sydney!
+
 [**My CV**](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf); **[Publications](#publications) **
 
 **[Contact](#contact):** adityarn@gmail.com, A.Narayanan@soton.ac.uk 
@@ -54,12 +56,16 @@ I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, U
 
 
     
-### Under Review (Contact me for drafts)
+### Under Review
+
+<font color="#eb5552"> *Contact me for drafts* </font>
 
 2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Weddell Gyre interaction with seamount enabled recent polynya formation** -- Under review, study analyses the complex flow -- topography interaction on the northern flank of the Maud Rise seamount in the Weddell Sea and identifies a novel mechanism that aided the formation of the 2017 polynya. Study uses the Southern Ocean State Estimate, a 1/6<sup>o</sup> Southern Ocean model.
 
 
-### Upcoming
+### Upcoming Work
+
+<font color="#eb5552"> *Contact me to know more, I welcome discussion on these topics!* </font>
 
 1. A study of how the variability of the Weddell Gyre helped drive polynya formation over the Maud Rise. 
 1. A study of how the large scale gyre circulation affects the cross-slope exchange of heat in the Amundsen Sea.
