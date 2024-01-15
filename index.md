@@ -118,6 +118,11 @@ I am currently visiting UNSW, Sydney!
 1. 2021: [Webinar on the Weddell Sea polynyas](https://www.youtube.com/watch?v=C1HVuRRD-fI&t=304s)
 
 
+## Teaching
+
+1. [Marine Project from Idea to Realization (MAR440), Department of Marine Science, University of Gothenburg](https://github.com/adityarn/MAR440_PythonModule)
+1. [Marine models and databases (MAV110), Department of Marine Science, University of Gothenburg](https://github.com/adityarn/MAV110_PythonModule/tree/main)
+1. [Ocean data analysis, National Center for Polar and Ocean Research, Goa](https://github.com/adityarn/MAV110_PythonModule/tree/main)
 
 
 ## Contact
