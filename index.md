@@ -37,13 +37,6 @@ I am also a visiting fellow at UNSW, Sydney.
 
 
 
-### Upcoming work
-
-* Open ocean polynyas
-* Subpolar gyre variability
-
-
-
 ## Publications
     
 ### Journals
