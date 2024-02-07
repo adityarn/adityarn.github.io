@@ -2,14 +2,14 @@
 title: Aditya Narayanan
 ---
 **(He/Him)**
-<img src="./Images/pro_portrait.JPG" class="img-profile"/>
+<img src="./Images/profile_garden.jpg" class="img-profile"/>
 
 
 ## About Me:
 
-I am a Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, University of Southampton. I am working on large-scale oceanic circulation that mediates heat supply towards the Amundsen Sea as part of the [DeCAdeS project](https://gtr.ukri.org/projects?ref=NE%2FT012803%2F1).
+I am a [Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, University of Southampton](https://www.southampton.ac.uk/people/62h5qp/doctor-aditya-narayanan). I am currently studying the role played by large-scale oceanic circulation in mediating heat supply towards the Amundsen Sea as part of the [DeCAdeS project](https://gtr.ukri.org/projects?ref=NE%2FT012803%2F1).
 
-I am currently visiting UNSW, Sydney!
+I am also a visiting fellow at UNSW, Sydney.
 
 [**My CV**](https://raw.githubusercontent.com/adityarn/CV/master/CV.pdf); **[Publications](#publications) **
 
@@ -68,8 +68,8 @@ I am currently visiting UNSW, Sydney!
 <font color="#eb5552"> *Contact me to know more, I welcome discussion on these topics!* </font>
 
 1. A study of how the variability of the Weddell Gyre helped drive polynya formation over the Maud Rise. 
-1. A study of how the large scale gyre circulation affects the cross-slope exchange of heat in the Amundsen Sea.
-1. What factors affect the mixing of Circumpolar Deep Water on seasonal and interannual timescales over the continental shelves and the open Southern Ocean?
+1. A study of how large scale gyre circulation affects the cross-slope exchange of heat in the Amundsen Sea.
+1. [What factors affect the mixing of Circumpolar Deep Water on seasonal and interannual timescales over the continental shelves and the open Southern Ocean?](https://github.com/adityarn/CDW_mixing_ACCESS)
 
 
 ### Reports
@@ -122,7 +122,7 @@ I am currently visiting UNSW, Sydney!
 
 1. [Marine Project from Idea to Realization (MAR440), Department of Marine Science, University of Gothenburg](https://github.com/adityarn/MAR440_PythonModule)
 1. [Marine models and databases (MAV110), Department of Marine Science, University of Gothenburg](https://github.com/adityarn/MAV110_PythonModule/tree/main)
-1. [Ocean data analysis, National Center for Polar and Ocean Research, Goa](https://github.com/adityarn/MAV110_PythonModule/tree/main)
+1. [Ocean data analysis, National Center for Polar and Ocean Research, Goa](https://github.com/adityarn/PythonWorkshopNCPOR)
 
 
 ## Contact
