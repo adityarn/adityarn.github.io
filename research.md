@@ -24,6 +24,14 @@ title: Research
 
 ## Southern Ocean sea ice and polynya
 
+
+ <figure>
+  <img src="./Images/research/AN_edited_20231208.png" alt="Polynya illustration" style="width:65%">
+  <figcaption> Illustration of key processes invovled in the formation of the Maud Rise polynya. More details in upcoming papers which are currently under review. For updates, watch this space! This illustration was produced by Claudia Ofelio. </figcaption>
+</figure>
+
+
+
 * Upcoming work on Maud Rise polynyas from the perspective of the surface and subsurface ocean. The upcoming studies answer the following questions:
   * To form polynyas in the open ocean, the ocean needs to undergo deep vertical mixing which helps bring heat from the underlying layers. However, when deep mixing initiates and melts sea ice at the surface, the surface freshens. How did the ocean overcome this restratifying effect and sustain deep mixing to keep the polynya open in 2017 over the Maud Rise?
   * The principal source of warm and saline waters in the Maud Rise is via the eastern limb of the Weddell Gyre. This current undergoes large interannual variability. How does this variability impact the stratification of the Maud Rise? Does this play a role in polynya formation?
