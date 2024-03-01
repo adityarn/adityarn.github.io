@@ -34,6 +34,7 @@ title: Publications
 
 # Conferences
 
+1. Aditya Narayanan, Fabien Roquet, Oana Dragomir, Sarah T Gille, Birte Gülk, Margaret Ruth Lindeman, Matthew R Mazloff, Alessandro Silvano, Alberto Naveira Garabato, (2024),``[Variability of the Weddell Gyre and Ekman Processes near Maud Rise: Implications for Polynya Formation](https://agu.confex.com/agu/OSM24/prelim.cgi/Paper/1483507)'', Ocean Science Meeting, New Orleans.
 1. [Aditya Narayanan, Birte Gülk, Fabien Roquet, and Alberto Naveira Garabato, (2022), <strong> "<em> The oceanic drivers of the 2017 Maud Rise Polynya</em>", </strong> EGU General Assembly, Vienna](https://meetingorganizer.copernicus.org/EGU22/EGU22-9100.html)
 1.  [Aditya Narayanan, Sarah T. Gille, Matthew Mazloff, Murali K, (2019), <strong> "<em> Antarctic Shelf Break Processes and Circumpolar Deep Water Intrusion </em>", </strong> AGU Fall Meeting, San Fransisco.](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/505561)
 1. Aditya Narayanan, Sarah T. Gille, Matthew Mazloff, Murali K, (2019), "<em>Antarctic shelf break processes and their role in determining the bottom temperature regime of the shelf seas</em>", National Conference on Polar Sciences, National Centre for Polar and Ocean Research, Goa, India.
