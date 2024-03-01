@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research Interests
 ---
 [Home](index.html) | [Research](research.html) | [Publications](publications.html) | [Teaching](teaching.html) | [Outreach](outreach.html) |  [Full CV](https://github.com/adityarn/CV/blob/master/CV.pdf)
 
