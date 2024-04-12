@@ -6,7 +6,7 @@ title: Publications
     
 # Journals
 
-
+1. Narayanan, A., Roquet, F., Gülk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. “Ekman-Driven Salt Transport as a Key Mechanism for Open-Ocean Polynya Formation at Maud Rise”. Science Advances; (In Press).
 1. Gülk, B., Roquet, F., Naveira Garabato, A. C., **Narayanan, A.**, Rousset, C., & Madec, G. (2023). Variability and Remote Controls of the Warm‐Water Halo and Taylor Cap at Maud Rise. Journal of Geophysical Research: Oceans, [DOI](https://doi.org/10.1029/2022JC019517).
 1. **Narayanan, A.**, Gille, S. T., Mazloff, M. R., du Plessis, M. D., Murali, K., & Roquet, F. (2023). Zonal distribution of Circumpolar Deep Water transformation rates and its relation to heat content on Antarctic shelves. Journal of Geophysical Research: Oceans, 128, e2022JC019310. [https://doi.org/10.1029/2022JC019310](https://doi.org/10.1029/2022JC019310)
 1. Sallée, J. B., Abrahamsen, E. P., Allaigre, C., Auger, M., Ayres, H., Badhe, R., ... **Narayanan, A.**... et al. (2023). Southern ocean carbon and heat impact on climate. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 381(2249), 20220056. https://doi.org/10.1098/rsta.2022.0056
