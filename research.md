@@ -32,7 +32,7 @@ title: Research Interests
 
 
 
-* [A study of the processes that sustained a long-lived polynya over the Maud Rise in 2017.](https://doi.org/10.1126/sciadv.adj0777 target="_blank")
+* [A study of the processes that sustained a long-lived polynya over the Maud Rise in 2017.](https://doi.org/10.1126/sciadv.adj0777)
   * To form polynyas in the open ocean, the ocean needs to undergo deep vertical mixing which helps bring heat from the underlying layers. However, when deep mixing initiates and melts sea ice at the surface, the surface freshens. How did the ocean overcome this restratifying effect and sustain deep mixing to keep the polynya open in 2017 over the Maud Rise?
   * The principal source of warm and saline waters in the Maud Rise is via the eastern limb of the Weddell Gyre. This current undergoes large interannual variability. How does this variability impact the stratification of the Maud Rise? Does this play a role in polynya formation?
   
