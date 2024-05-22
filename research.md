@@ -27,7 +27,7 @@ title: Research Interests
 
  <figure>
   <img src="./Images/research/AN_edited_20231208.png" alt="Polynya illustration" style="width:65%">
-  <figcaption> Illustration of key processes invovled in the formation of the Maud Rise polynya. More details in upcoming papers which are currently under review. For updates, watch this space! This illustration was produced by Claudia Ofelio. </figcaption>
+  <figcaption> Illustration of key processes invovled in the formation of the Maud Rise polynya. Study published [here](https://doi.org/10.1126/sciadv.adj0777). This illustration was produced by Claudia Ofelio. </figcaption>
 </figure>
 
 
