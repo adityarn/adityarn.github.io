@@ -13,6 +13,6 @@ title: Teaching
 
 # Student Supervision
 
-* 2020-2021: Co-supervised Hasna Kunjumon, M.Sc. dissertation on the dynamics of the Antarctic Circumpolar Current. \\
-* 2020-2021: Informal mentoring of Sivakrishnan K.K, M.Sc. dissertation on the watermasses of the Antarctic marginal seas. \\
-* 2023-ongoing: Co-supervising Soumyadeep Datta, PhD Student, on Antarctic coastal watermass formation.\\
+* 2020-2021: Co-supervised Hasna Kunjumon, M.Sc. dissertation on the dynamics of the Antarctic Circumpolar Current.
+* 2020-2021: Informal mentoring of Sivakrishnan K.K, M.Sc. dissertation on the watermasses of the Antarctic marginal seas.
+* 2023-ongoing: Co-supervising Soumyadeep Datta, PhD Student, on Antarctic coastal watermass formation.
