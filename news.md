@@ -27,3 +27,5 @@ title: In the News
 * [Scientists reveal cause behind massive Antarctic hole | Science And Tech | wfmz.com](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.wfmz.com%2Fscience_and_tech%2Fscientists-reveal-cause-behind-massive-antarctic-hole%2Farticle_7a22fe37-7716-53c8-b0ee-ca05e1a209a6.html&data=05%7C02%7CA.Narayanan%40soton.ac.uk%7C9b3993c8d0f94165b8d208dc6b4e59b9%7C4a5378f929f44d3ebe89669d03ada9d8%7C0%7C0%7C638503231463878596%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=CrBO%2BZV5Xa3555f9WUYIhkcT%2B3oeUgrAbSJR942SwEc%3D&reserved=0)
 
 * [Eight Years Ago A Huge Opening Appeared In Antarctic Sea Ice – Now We Know Why](https://www.iflscience.com/eight-years-ago-a-huge-opening-appeared-in-antarctic-sea-ice-now-we-know-why-74029)
+
+* [Scientists solve the mystery of huge hole in Antarctica that baffled experts for eight years](https://www.ladbible.com/news/world-news/antarctica-hole-scientists-study-why-598227-20240504)
