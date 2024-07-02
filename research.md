@@ -1,7 +1,7 @@
 ---
 title: Research Interests
 ---
-[Home](index.html) | [Publications](publications.html) | [Research](research.html) | [Teaching](teaching.html) | [Outreach](outreach.html) |  [Full CV](https://github.com/adityarn/CV/blob/master/CV.pdf)| [In the News](news.html)
+[Home](index.html) | [Publications](publications.html) | [Research](research.html) | [Teaching](teaching.html) | [Outreach](outreach.html) |  [Full CV](https://github.com/adityarn/CV/blob/master/CV.pdf)|  [Blog/Art](https://adityarn.github.io/kadal/) |
 
 
 ## Antarctic continental shelf and continental shelf break processes.

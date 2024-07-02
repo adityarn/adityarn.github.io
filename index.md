@@ -4,7 +4,7 @@ title: Aditya Narayanan
 **(He/Him)** <!--[(hear my pronounciation)]( https://www.name-coach.com/aditya-narayanan-93e6012a-3e3d-43c0-8a11-a454c5a58179 ) -->
 <img src="./Images/profile_garden.jpg" class="img-profile"/>
 
-[Home](index.html) | [Publications](publications.html) | [Research](research.html) | [Teaching](teaching.html) | [Outreach](outreach.html) |  [Full CV](https://github.com/adityarn/CV/blob/master/CV.pdf)| [In the News](news.html)
+[Home](index.html) | [Publications](publications.html) | [Research](research.html) | [Teaching](teaching.html) | [Outreach](outreach.html) |  [Full CV](https://github.com/adityarn/CV/blob/master/CV.pdf)| [Blog/Art](https://adityarn.github.io/kadal/) |
 
 ## About Me:
 
