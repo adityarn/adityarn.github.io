@@ -16,22 +16,24 @@ title: Publications
 
 
     
-<!-- ## Under Review -->
+## Preprints
 
-<!-- <font color="#eb5552"> *Contact me for drafts* </font> -->
+1. **Narayanan, A.**, Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Eastern Weddell Gyre Variability Impacts Maud Rise Stratification. [preprint](https://essopenarchive.org/users/170416/articles/1270671-eastern-weddell-gyre-variability-impacts-maud-rise-stratification?commit=65b8d4d83cd169e35d2f05a4e1ae2e8b93fa2d6f)
+2. Theo Spira, Marcel du Plessis, F. Alexander Haumann, Isabelle Giddy, **Aditya Narayanan**, Alessandro Silvano, Sebastiaan Swart (2025). Wind-triggered Antarctic sea ice decline preconditioned by thinning Winter Water. [preprint](https://www.researchsquare.com/article/rs-5919587/v1)
+3. Lu Zhou, Holly Ayres, Birte Gülk, Aditya Narayanan, Casimir de Lavergne, Malin Ödalen, Alessandro Silvano, Xingchi Wang, Margaret Lindeman, and Nadine Steiger, (2025). Review article: Weddell Sea polynya Formation, Cessation and Climatic Impacts. [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-999/)
 
-<!-- 2. **2022:** **Narayanan, A., Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Eastern Weddell Gyre Variability Impacts Maud Rise Stratification** -- Under review, study analyses the complex flow -- topography interaction on the eastern flank of the Maud Rise seamount in the Weddell Sea and studies the impact on polynya formation. -->
 
+<!-- ## Upcoming Work -->
 
-## Upcoming Work
+<!-- <font color="#eb5552"> *Contact me to know more, I welcome discussion on these topics!* </font> -->
 
-<font color="#eb5552"> *Contact me to know more, I welcome discussion on these topics!* </font>
-
-1. A study of how the variability of the Weddell Gyre helped drive polynya formation over the Maud Rise. 
-1. A study of how large scale gyre circulation affects the cross-slope exchange of heat in the Amundsen Sea.
-1. [What factors affect the mixing of Circumpolar Deep Water on seasonal and interannual timescales over the continental shelves and the open Southern Ocean?](https://github.com/adityarn/CDW_mixing_ACCESS)
+<!-- 1. A study of how the variability of the Weddell Gyre helped drive polynya formation over the Maud Rise.  -->
+<!-- 1. A study of how large scale gyre circulation affects the cross-slope exchange of heat in the Amundsen Sea. -->
+<!-- 1. [What factors affect the mixing of Circumpolar Deep Water on seasonal and interannual timescales over the continental shelves and the open Southern Ocean?](https://github.com/adityarn/CDW_mixing_ACCESS) -->
 
 
 # Thesis
 
 + 1. Narayanan, A. (2020). Characteristics of Antarctic marginal seas that influence shelfwater formation and Circumpolar Deep Water intrusion. Indian Institute of Technology Madras. Ph.D. Thesis. [DOI](http://hdl.handle.net/10603/408207)
+
+
