@@ -20,7 +20,7 @@ title: Publications
 
 1. **Narayanan, A.**, Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Eastern Weddell Gyre Variability Impacts Maud Rise Stratification. [preprint](https://essopenarchive.org/users/170416/articles/1270671-eastern-weddell-gyre-variability-impacts-maud-rise-stratification?commit=65b8d4d83cd169e35d2f05a4e1ae2e8b93fa2d6f)
 2. Theo Spira, Marcel du Plessis, F. Alexander Haumann, Isabelle Giddy, **Aditya Narayanan**, Alessandro Silvano, Sebastiaan Swart (2025). Wind-triggered Antarctic sea ice decline preconditioned by thinning Winter Water. [preprint](https://www.researchsquare.com/article/rs-5919587/v1)
-3. Lu Zhou, Holly Ayres, Birte Gülk, Aditya Narayanan, Casimir de Lavergne, Malin Ödalen, Alessandro Silvano, Xingchi Wang, Margaret Lindeman, and Nadine Steiger, (2025). Review article: Weddell Sea polynya Formation, Cessation and Climatic Impacts. [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-999/)
+3. Lu Zhou, Holly Ayres, Birte Gülk, **Aditya Narayanan**, Casimir de Lavergne, Malin Ödalen, Alessandro Silvano, Xingchi Wang, Margaret Lindeman, and Nadine Steiger, (2025). Review article: Weddell Sea polynya Formation, Cessation and Climatic Impacts. [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-999/)
 
 
 <!-- ## Upcoming Work -->
