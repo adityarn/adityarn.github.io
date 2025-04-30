@@ -22,7 +22,7 @@ title: Publications
 2. Theo Spira, Marcel du Plessis, F. Alexander Haumann, Isabelle Giddy, **Aditya Narayanan**, Alessandro Silvano, Sebastiaan Swart (2025). Wind-triggered Antarctic sea ice decline preconditioned by thinning Winter Water. [preprint](https://www.researchsquare.com/article/rs-5919587/v1)
 3. Lu Zhou, Holly Ayres, Birte Gülk, **Aditya Narayanan**, Casimir de Lavergne, Malin Ödalen, Alessandro Silvano, Xingchi Wang, Margaret Lindeman, and Nadine Steiger, (2025). Review article: Weddell Sea polynya Formation, Cessation and Climatic Impacts. [preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-999/)
 4. Soumyadeep Dutta, P Sabu, **Aditya Narayanan**, Rahul Mohan (2025). Characteristics of an annually recurring open-ocean polynya in the Southern Ocean. [preprint](https://essopenarchive.org/users/892262/articles/1269223-characteristics-of-an-annually-recurring-open-ocean-polynya-in-the-southern-ocean?commit=44ac7b0d186bdcee5be8221c6cc8d918301167f7)
-
+5.  Verónica González-Gambau, Estrella Olmedo, Aina García-Espriu, Cristina González-Haro, Antonio Turiel, Carolina Gabarró, Alessandro Silvano, Aditya Narayanan, Alberto Naveira-Garabato, Rafael Catany, Nina Hoareau, Marta Umbert, Giuseppe Aulicino, Yuri Cotroneo, Roberto Sabia, and Diego Fernández-Prieto (2025). Satellite-based regional Sea Surface Salinity maps for enhanced understanding of freshwater fluxes in the Southern Ocean. [preprint](https://essd.copernicus.org/preprints/essd-2025-212/)
 
 <!-- ## Upcoming Work -->
 
