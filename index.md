@@ -20,6 +20,7 @@ I am also a visiting fellow at UNSW, Sydney.
 * Postal address: 564/04, Ocean and Earth Science, Waterfront Campus, European Way, Southampton, Hampshire SO14 3ZH
 * [ORCID: 0000-0002-8967-2211](https://orcid.org/0000-0002-8967-2211)
 * [Github](https://github.com/adityarn)
+* [Google Scholar](https://scholar.google.com/citations?user=l3UHw2EAAAAJ&hl=en)
 
 
 ## Areas of specialization
