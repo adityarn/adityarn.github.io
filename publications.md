@@ -21,7 +21,8 @@ title: Publications
     
 ## Preprints
 
-1. **Narayanan, A.**, Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Eastern Weddell Gyre Variability Impacts Maud Rise Stratification. [preprint](https://essopenarchive.org/users/170416/articles/1270671-eastern-weddell-gyre-variability-impacts-maud-rise-stratification?commit=65b8d4d83cd169e35d2f05a4e1ae2e8b93fa2d6f)
+1. Narayanan, A., Ayres, H., England, M. H., Haumann, F. A., Mazloff, M. R., Silvano, A., Spira, T., Zhou, S., & Naveira Garabato, A. C. (2026). Compound Drivers of Antarctic Sea Ice Loss and Southern Ocean Destratification. (2026). Earth Arxiv. [preprint](https://doi.org/10.31223/X51V0B)
+2. **Narayanan, A.**, Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Eastern Weddell Gyre Variability Impacts Maud Rise Stratification. [preprint](https://essopenarchive.org/users/170416/articles/1270671-eastern-weddell-gyre-variability-impacts-maud-rise-stratification?commit=65b8d4d83cd169e35d2f05a4e1ae2e8b93fa2d6f)
 2. Theo Spira, Marcel du Plessis, F. Alexander Haumann, Isabelle Giddy, **Aditya Narayanan**, Alessandro Silvano, Sebastiaan Swart (2025). Wind-triggered Antarctic sea ice decline preconditioned by thinning Winter Water. [preprint](https://www.researchsquare.com/article/rs-5919587/v1)
 
 <!-- ## Upcoming Work -->
