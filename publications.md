@@ -6,6 +6,7 @@ title: Publications
     
 # Journals
 
+1. **Narayanan, A.**, Ayres, H., England, M. H., Haumann, F. A., Mazloff, M. R., Silvano, A., Spira, T., Zhou, S., & Naveira Garabato, A. C. (2026). Compound Drivers of Antarctic Sea Ice Loss and Southern Ocean Destratification. (2026). Science Advances. [Full text.](https://www.science.org/doi/10.1126/sciadv.aeb0166)
 1. Theo Spira, Marcel du Plessis, F. Alexander Haumann, Isabelle Giddy, **Aditya Narayanan**, Alessandro Silvano, Sebastiaan Swart (2026). Wind-triggered Antarctic sea ice decline preconditioned by thinning Winter Water. Nature Climate Change. [Full text](https://www.nature.com/articles/s41558-026-02601-4)
 1. Lu Zhou, Holly Ayres, Birte Gülk, **Aditya Narayanan**, Casimir de Lavergne, Malin Ödalen, Alessandro Silvano, Xingchi Wang, Margaret Lindeman, and Nadine Steiger, (2026). Review article: Weddell Sea polynya Formation, Cessation and Climatic Impacts. The Cryosphere; | [Full text.](https://tc.copernicus.org/articles/20/285/2026/)
 1. Soumyadeep Dutta, P Sabu, **Aditya Narayanan**, Rahul Mohan (2026). Characteristics of an annually recurring open-ocean polynya in the Southern Ocean. JGR:Oceans; [Full text.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022821)
@@ -22,7 +23,6 @@ title: Publications
     
 ## Preprints
 
-1. [*In press, Science Advances*] Narayanan, A., Ayres, H., England, M. H., Haumann, F. A., Mazloff, M. R., Silvano, A., Spira, T., Zhou, S., & Naveira Garabato, A. C. (2026). Compound Drivers of Antarctic Sea Ice Loss and Southern Ocean Destratification. (2026). Earth Arxiv. [preprint](https://doi.org/10.31223/X51V0B)
 2. **Narayanan, A.**, Roquet, F., G&uuml;lk, B., Mazloff, M., Silvano, A., Gille, S. T., Garabato, A., N. Eastern Weddell Gyre Variability Impacts Maud Rise Stratification. [preprint](https://essopenarchive.org/users/170416/articles/1270671-eastern-weddell-gyre-variability-impacts-maud-rise-stratification?commit=65b8d4d83cd169e35d2f05a4e1ae2e8b93fa2d6f)
 
 
