@@ -8,16 +8,13 @@ title: Aditya Narayanan
 
 ## About Me:
 
-I am a [Postdoctoral Research Fellow at the School of Ocean and Earth Sciences, University of Southampton](https://www.southampton.ac.uk/people/62h5qp/doctor-aditya-narayanan). I am currently studying the role played by large-scale oceanic circulation in causing the decline in Antarctic sea ice.
-
-I am also a visiting fellow at UNSW, Sydney.
+I am a [Postdoctoral Fellow at the Center for Marine Science and Innovation, University of New South Wales](https://www.unsw.edu.au/research/cmsi/about-us/our-people). I am currently studying Southern Hemisphere Western Boundary Current systems, with a special focus on the East Australian Current.
 
 
 
 ## Contact
 
-* adityarn@gmail.com, a.narayanan@soton.ac.uk
-* Postal address: 564/04, Ocean and Earth Science, Waterfront Campus, European Way, Southampton, Hampshire SO14 3ZH
+* adityarn@gmail.com, a.narayanan@unsw.edu.au
 * [ORCID: 0000-0002-8967-2211](https://orcid.org/0000-0002-8967-2211)
 * [Github](https://github.com/adityarn)
 * [Google Scholar](https://scholar.google.com/citations?user=l3UHw2EAAAAJ&hl=en)
@@ -25,5 +22,5 @@ I am also a visiting fellow at UNSW, Sydney.
 
 ## Areas of specialization
 
-• Southern Ocean dynamics • Shelf sea processes • Open ocean polynyas • Subpolar gyres • Circumpolar Deep Water mixing pathways • Dense Shelf Water formation • Sea ice formation processes • Observational hydrography of subpolar oceans
+• Boundary currents • Large scale ocean dynamics • Shelf sea processes • Open ocean polynyas • Subpolar gyres • Circumpolar Deep Water mixing pathways • Dense Shelf Water formation • Sea ice formation processes • Observational hydrography
 
