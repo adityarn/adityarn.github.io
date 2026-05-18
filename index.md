@@ -8,7 +8,7 @@ title: Aditya Narayanan
 
 ## About Me:
 
-I am a [Postdoctoral Fellow at the Center for Marine Science and Innovation, University of New South Wales](https://www.unsw.edu.au/research/cmsi/about-us/our-people). I am currently studying Southern Hemisphere Western Boundary Current systems, with a special focus on the East Australian Current.
+I am a [Postdoctoral Fellow at the Center for Marine Science and Innovation, University of New South Wales](https://www.unsw.edu.au/research/oceanography/team). I am currently studying Southern Hemisphere Western Boundary Current systems, with a special focus on the East Australian Current.
 
 
 
